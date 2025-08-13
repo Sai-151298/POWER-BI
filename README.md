@@ -93,6 +93,8 @@ This dashboard can be used by business managers, sales analysts, and supply chai
 
 Built with a focus on **clarity, aesthetics, and actionable insights**, this dashboard is an essential analytical tool for any retail or e-commerce business.
 
+## SUPERSTORE SALES DASHBOARD
+
 <img width="1025" height="577" alt="Image" src="https://github.com/user-attachments/assets/3cc0815c-6c61-40e8-9259-ff28edba3f89" />
 
 
